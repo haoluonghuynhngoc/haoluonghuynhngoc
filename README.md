@@ -1,5 +1,8 @@
 # Hi 👋 My name is LƯƠNG HUỲNH NGỌC HẢO
 
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+
 - ✉️  You can contact me at [haoluonghuynhngoc@gmail.com](mailto:haoluonghuynhngoc@gmail.com)
 
 <a href="https://www.github.com/haoluonghuynhngoc" target="_blank" rel="noreferrer"><img
