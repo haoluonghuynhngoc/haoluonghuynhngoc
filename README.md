@@ -39,5 +39,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-
-Cảm ơn vì đã ghé thăm! 😊
+Thanks for visiting! Have a great day! 😊
