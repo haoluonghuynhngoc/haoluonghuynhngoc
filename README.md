@@ -11,7 +11,8 @@
   <h3>🚀 <strong>Backend Developer</strong> | 💻 <strong>.NET & Spring Boot Enthusiast</strong> | 🛠 <strong>DevOps Learner</strong></h3>
 </div>
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietName
+
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
