@@ -39,4 +39,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-Thanks for visiting! Have a great day! 😊
+<div align="center">
+  <strong style="font-size: 20px;">Thanks for visiting! Have a great day! 😊</strong>
+</div>
