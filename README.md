@@ -7,7 +7,9 @@
 
 
 ###  :man_technologist: About Me :
-🚀 **Backend Developer** | 💻 **.NET & Spring Boot Enthusiast** | 🛠 **DevOps Learner**
+<div align="center">
+  <h3>🚀 <strong>Backend Developer</strong> | 💻 <strong>.NET & Spring Boot Enthusiast</strong> | 🛠 <strong>DevOps Learner</strong></h3>
+</div>
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietName
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
