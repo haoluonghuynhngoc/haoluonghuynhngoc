@@ -39,6 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoluonghuynhngoc)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoluonghuynhngoc&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 Cảm ơn vì đã ghé thăm! 😊
