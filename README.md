@@ -1,11 +1,18 @@
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif _technologist-->
 <div align="center">
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200" />
 </div>
+---
+
 ### 👋 Xin chào! Tôi là Hao
-
+###  :man_technologist: About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietName
 🚀 **Backend Developer** | 💻 **.NET & Spring Boot Enthusiast** | 🛠 **DevOps Learner**
-
+<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-luong-huynh-ngoc-07a243330/)
+  
 ---
 
 ### 🔧 Languages and Tools:
