@@ -16,7 +16,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-luong-huynh-ngoc-07a243330/)
+- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-luong-huynh-ngoc-07a243330/)
   
 ---
 
@@ -50,5 +50,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 <div align="center">
-  <strong style="font-size: 28px;">Thanks for visiting! Have a great day! 😊</strong> <!--20 -->
+  <strong style="font-size: 40px;">Thanks for visiting! Have a great day! 😊</strong> <!--20 -->
 </div>
+<!-- For more details, please visit the following link : https://www.sitepoint.com/github-profile-readme/ -->
