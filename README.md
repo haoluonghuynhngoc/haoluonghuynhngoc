@@ -19,8 +19,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - ✈️ I’m a Software Engineer focusing on backend development for web applications.
 - 💻 How to reach me:
    [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-luong-huynh-ngoc-07a243330/)
-   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](http://facefacebook.com/hao.luonghuynhngoc/)
-- 📬 Get in touch:  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](haoluonghuynhngoc@gmail.com)
+   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/hao.luonghuynhngoc/)
+- 📬 Get in touch:  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:haoluonghuynhngoc@gmail.com)
   
 ---
 
